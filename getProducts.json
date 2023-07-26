@@ -40,5 +40,17 @@
     "product_name": "Cooler",
     "price": 3000,
     "img": "https://static.nix.ru/images/Cooler-Master-i70-3598592254.jpg?good_id=359859&width=500&height=500&view_id=2254"
+  },
+  {
+    "id_product": 742,
+    "product_name": "Headset",
+    "price": 4999,
+    "img": "https://img.mvideo.ru/Pdb/400087863b.jpg"
+  },
+  {
+    "id_product": 745,
+    "product_name": "Microphone",
+    "price": 13999,
+    "img": "https://img.mvideo.ru/Pdb/50175814b.jpg"
   }
 ]
