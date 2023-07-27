@@ -8,25 +8,25 @@
   {
     "id_product": 457,
     "product_name": "Gamepad",
-    "price": 3000,
+    "price": 10000,
     "img": "https://cdn1.ozone.ru/s3/multimedia-3/c1200/6012266895.jpg"
   },
   {
     "id_product": 437,
     "product_name": "Mouse",
-    "price": 3000,
+    "price": 5490,
     "img": "https://img.mvideo.ru/Pdb/50046722b.jpg"
   },
   {
     "id_product": 528,
     "product_name": "Notebook",
-    "price": 3000,
+    "price": 90000,
     "img": "https://mi92.ru/wp-content/uploads/2020/10/noutbuk-xiaomi-mi-notebook-pro-15-6-i5-10210u8gb512gbmx-350-jyu4224cn-1.jpg"
   },
   {
     "id_product": 123,
     "product_name": "Mouse-pad",
-    "price": 3000,
+    "price": 800,
     "img": "https://ru.thermaltake.com/media/catalog/product/cache/023a745bb14092c479b288481f91a1bd/l/2/l20mousepad01.jpg"
   },
   {
@@ -38,7 +38,7 @@
   {
     "id_product": 741,
     "product_name": "Cooler",
-    "price": 3000,
+    "price": 1850,
     "img": "https://static.nix.ru/images/Cooler-Master-i70-3598592254.jpg?good_id=359859&width=500&height=500&view_id=2254"
   },
   {
